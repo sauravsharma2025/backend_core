@@ -1,6 +1,6 @@
 # backend_core
 
-################/<h3>18/11/2022</h3><br>
+################/<h3>18/11/2022</h3>
 What is back-end.<br>
 What is API<br>
 Why do we need API.<br>
