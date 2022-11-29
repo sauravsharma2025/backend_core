@@ -19,7 +19,7 @@ ERD<br>
 Autovacuum<br>
 What is indexing and advantage and disadvantage of hashing.<br>
 Note:Database is based on baised information.<br>
-What is tuffle.<br>
+What is tupple.<br>
 Difference between soft delete and hard delete.<br>
 one way hashing<br>
 what is bloating in dbms<br>
