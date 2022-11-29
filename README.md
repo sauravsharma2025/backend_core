@@ -15,13 +15,13 @@ types of queue<br>
 How to handle logs?<br>
 What is Error handling?<br>
 ###############<h3>28/11/2022</h3>
-ERD
-Autovacum
-What is indexing and advantage and disadvantage of hashing.
-Note:Database is based on baised information.
-What is tuffle.
-Difference between soft delete and hard delete.
-one way hashing
-what is bloating in dbms
-Create basic server in node express.
+ERD<br>
+Autovacum<br>
+What is indexing and advantage and disadvantage of hashing.<br>
+Note:Database is based on baised information.<br>
+What is tuffle.<br>
+Difference between soft delete and hard delete.<br>
+one way hashing<br>
+what is bloating in dbms<br>
+Create basic server in node express.<br>
 
