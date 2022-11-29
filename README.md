@@ -16,7 +16,7 @@ How to handle logs?<br>
 What is Error handling?<br>
 ###############<h3>28/11/2022</h3>
 ERD<br>
-Autovacum<br>
+Autovaccum<br>
 What is indexing and advantage and disadvantage of hashing.<br>
 Note:Database is based on baised information.<br>
 What is tuffle.<br>
