@@ -17,7 +17,7 @@ What is Error handling?<br>
 ###############<h3>28/11/2022</h3>
 ERD<br>
 Autovacuum<br>
-What is indexing and advantage and disadvantage of hashing.<br>
+What is indexing and advantage and disadvantage of indexing.<br>
 Note:Database is based on baised information.<br>
 What is tupple.<br>
 Difference between soft delete and hard delete.<br>
